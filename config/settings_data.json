@@ -144,10 +144,29 @@
               "apply_p": false,
               "apply_custom": ""
             }
+          },
+          "image_7ab37B": {
+            "type": "image",
+            "settings": {
+              "name": "StudioProRegular",
+              "custom_font_weight": "400",
+              "custom_font_style": "normal",
+              "custom_font_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0100\/5695\/8052\/files\/StudioPro-Regular.woff2?v=1712187915",
+              "apply_h1": false,
+              "apply_h2": false,
+              "apply_h3": false,
+              "apply_h4": false,
+              "apply_h5": false,
+              "apply_h6": false,
+              "apply_span": true,
+              "apply_p": true,
+              "apply_custom": ""
+            }
           }
         },
         "block_order": [
-          "image_Fyt48w"
+          "image_Fyt48w",
+          "image_7ab37B"
         ],
         "settings": {
           "enable": true
