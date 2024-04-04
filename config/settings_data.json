@@ -145,6 +145,7 @@
               "apply_span": false,
               "apply_p": false,
               "apply_input": false,
+              "apply_label": false,
               "apply_custom": ""
             }
           },
@@ -164,6 +165,7 @@
               "apply_span": true,
               "apply_p": true,
               "apply_input": false,
+              "apply_label": false,
               "apply_custom": ""
             }
           },
@@ -183,6 +185,7 @@
               "apply_span": true,
               "apply_p": true,
               "apply_input": true,
+              "apply_label": true,
               "apply_custom": ""
             }
           }
