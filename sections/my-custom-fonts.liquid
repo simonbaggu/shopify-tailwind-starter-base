@@ -17,6 +17,7 @@
       {% assign apply_h6 = block.settings.apply_h6 %}
       {% assign apply_span = block.settings.apply_span %}
       {% assign apply_p = block.settings.apply_p %}
+      {% assign apply_input = block.settings.apply_input %}
       {% assign apply_custom = block.settings.apply_custom %}
 
       {% if url != blank and url != "" %}
@@ -93,6 +94,12 @@
 
 {% if apply_span %}
   span {
+    font-family: '{{name}}' !important;
+  }
+{% endif %}
+
+{% if apply_input %}
+  input {
     font-family: '{{name}}' !important;
   }
 {% endif %}
@@ -277,6 +284,13 @@
             "label": "<p> tags",
             "info": "Apply this custom font to all HTML paragraph elements.",
             "default": true
+          },
+           {
+            "type": "checkbox",
+            "id": "apply_input",
+            "label": "<input> tags",
+            "info": "Apply this custom font to all HTML paragraph elements.",
+            "default": false
           },
           {
             "type": "textarea",
