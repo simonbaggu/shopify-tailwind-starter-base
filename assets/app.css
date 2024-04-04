@@ -554,6 +554,19 @@ video {
   --tw-contain-style:  ;
 }
 
+.twcss-border-2 {
+  border-width: 2px;
+}
+
+.twcss-border-solid {
+  border-style: solid;
+}
+
+.twcss-border-red-500 {
+  --tw-border-opacity: 1;
+  border-color: rgb(239 68 68 / var(--tw-border-opacity));
+}
+
 .\!twcss-px-8 {
   padding-left: 2rem !important;
   padding-right: 2rem !important;
