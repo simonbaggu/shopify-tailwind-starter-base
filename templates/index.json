@@ -63,10 +63,21 @@
         "padding_bottom": 36,
         "padding_side": 0
       }
+    },
+    "contact_form_NfWVPX": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "CONTACT FORM",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "image_with_text_aNYgfy"
+    "image_with_text_aNYgfy",
+    "contact_form_NfWVPX"
   ]
 }
