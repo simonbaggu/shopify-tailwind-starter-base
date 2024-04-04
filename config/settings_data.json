@@ -144,6 +144,7 @@
               "apply_h6": true,
               "apply_span": false,
               "apply_p": false,
+              "apply_input": false,
               "apply_custom": ""
             }
           },
@@ -162,6 +163,7 @@
               "apply_h6": true,
               "apply_span": true,
               "apply_p": true,
+              "apply_input": false,
               "apply_custom": ""
             }
           },
@@ -180,7 +182,8 @@
               "apply_h6": false,
               "apply_span": true,
               "apply_p": true,
-              "apply_custom": "input {font-family: 'StudioProRegular';}"
+              "apply_input": true,
+              "apply_custom": ""
             }
           }
         },
