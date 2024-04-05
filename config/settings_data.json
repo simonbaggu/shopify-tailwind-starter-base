@@ -146,26 +146,7 @@
               "apply_p": false,
               "apply_input": false,
               "apply_label": false,
-              "apply_custom": ""
-            }
-          },
-          "image_wffCVj": {
-            "type": "image",
-            "settings": {
-              "name": "customfont",
-              "custom_font_weight": "none",
-              "custom_font_style": "none",
-              "custom_font_url": "",
-              "apply_h1": true,
-              "apply_h2": true,
-              "apply_h3": true,
-              "apply_h4": true,
-              "apply_h5": true,
-              "apply_h6": true,
-              "apply_span": true,
-              "apply_p": true,
-              "apply_input": false,
-              "apply_label": false,
+              "apply_li": false,
               "apply_custom": ""
             }
           },
@@ -186,13 +167,13 @@
               "apply_p": true,
               "apply_input": true,
               "apply_label": true,
+              "apply_li": true,
               "apply_custom": ""
             }
           }
         },
         "block_order": [
           "image_Fyt48w",
-          "image_wffCVj",
           "image_7ab37B"
         ],
         "settings": {
