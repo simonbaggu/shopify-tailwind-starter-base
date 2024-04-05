@@ -118,7 +118,7 @@
       {
         "type": "range",
         "id": "heading_scale",
-        "min": 100,
+        "min": 50,
         "max": 150,
         "step": 5,
         "unit": "%",
@@ -155,7 +155,7 @@
         "type": "range",
         "id": "page_width",
         "min": 1200,
-        "max": 1600,
+        "max": 3200,
         "step": 10,
         "default": 1440,
         "unit": "px",
