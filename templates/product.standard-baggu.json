@@ -42,12 +42,13 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "",
+            "content": "<p>!00% Ripstop Nylon <\/p>",
             "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
@@ -60,7 +61,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>12\"<\/p>",
             "page": ""
           }
         },
@@ -69,7 +70,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<p>Machine Washable<\/p>",
             "page": ""
           }
         }
