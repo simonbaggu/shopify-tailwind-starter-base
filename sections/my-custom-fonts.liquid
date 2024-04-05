@@ -19,6 +19,7 @@
       {% assign apply_p = block.settings.apply_p %}
       {% assign apply_input = block.settings.apply_input %}
       {% assign apply_label = block.settings.apply_label %}
+      {% assign apply_li = block.settings.apply_li %}
       {% assign apply_custom = block.settings.apply_custom %}
 
       {% if url != blank and url != "" %}
@@ -107,6 +108,12 @@
 
 {% if apply_label %}
   label {
+    font-family: '{{name}}' !important;
+  }
+{% endif %}
+
+{% if apply_li %}
+  li {
     font-family: '{{name}}' !important;
   }
 {% endif %}
@@ -292,18 +299,25 @@
             "info": "Apply this custom font to all HTML paragraph elements.",
             "default": true
           },
-           {
+          {
             "type": "checkbox",
             "id": "apply_input",
             "label": "<input> tags",
             "info": "Apply this custom font to all HTML input elements.",
             "default": false
           },
-           {
+          {
             "type": "checkbox",
             "id": "apply_label",
             "label": "<label> tags",
             "info": "Apply this custom font to all HTML label elements.",
+            "default": false
+          },
+          {
+            "type": "checkbox",
+            "id": "apply_li",
+            "label": "<li> tags",
+            "info": "Apply this custom font to all HTML li elements.",
             "default": false
           },
           {
