@@ -14,7 +14,7 @@
         "text_bqTjFR": {
           "type": "text",
           "settings": {
-            "text": "<p>Baggu Prebook orders require a minimum total of $350.<\/p>"
+            "text": "<p>Prebook orders must exceed $350, or will be subject to cancellation.<\/p>"
           }
         }
       },
