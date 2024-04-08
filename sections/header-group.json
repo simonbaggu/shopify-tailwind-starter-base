@@ -8,13 +8,21 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Holiday '24 Prebooking begins 4\/9",
+            "text": "Prebook orders must exceed $350",
+            "link": ""
+          }
+        },
+        "announcement_9kFxz9": {
+          "type": "announcement",
+          "settings": {
+            "text": "HO24 Booking ends April 16th",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_9kFxz9"
       ],
       "settings": {
         "color_scheme": "",
