@@ -14,6 +14,7 @@
         },
         "announcement_9kFxz9": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Holiday 2024 orders accepted until April 16th",
             "link": ""
