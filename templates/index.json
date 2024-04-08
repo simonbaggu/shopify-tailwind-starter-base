@@ -64,7 +64,7 @@
         "button_XxccBY": {
           "type": "button",
           "settings": {
-            "button_label": "VIEW SHIPPING DATES",
+            "button_label": "VIEW THE LINESHEET",
             "button_link": "shopify:\/\/pages\/linesheet",
             "button_style_secondary": false
           }
