@@ -19,10 +19,10 @@
         "buttons_VE6Pnz"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PrebooksHero_Text_Desktop.jpg",
+        "image": "shopify:\/\/shop_images\/PrebooksHero_Blank_Desktop.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
