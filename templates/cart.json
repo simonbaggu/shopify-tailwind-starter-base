@@ -3,8 +3,31 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
+        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_Mki6et": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bqTjFR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Baggu Prebook orders require a minimum total of $350.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_bqTjFR"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "cart-footer": {
@@ -26,6 +49,9 @@
         "buttons"
       ],
       "settings": {
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "featured-collection": {
@@ -33,15 +59,23 @@
       "settings": {
         "title": "Featured collection",
         "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
         "collection": "all",
         "products_to_show": 4,
         "columns_desktop": 4,
+        "full_width": false,
         "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "scheme-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -51,6 +85,7 @@
   },
   "order": [
     "cart-items",
+    "rich_text_Mki6et",
     "cart-footer",
     "featured-collection"
   ]
