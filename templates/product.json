@@ -76,6 +76,19 @@
             "content": "",
             "page": ""
           }
+        },
+        "complementary_HiTRRD": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
         }
       },
       "block_order": [
@@ -88,7 +101,8 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3"
+        "collapsible-row-3",
+        "complementary_HiTRRD"
       ],
       "settings": {
         "enable_sticky_info": true,
