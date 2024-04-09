@@ -521,7 +521,7 @@
   "shopify": {
     "checkout": {
       "payment_gateway": {
-        "draft_order_payment_due_later_no_terms_payment_selected": "Payment is not due until the order ships. Please select choose payment method later."
+        "draft_order_payment_due_later_no_terms_payment_selected": "Payment is not due until the order ships. Please select \"Choose payment method later\"."
       }
     }
   }
