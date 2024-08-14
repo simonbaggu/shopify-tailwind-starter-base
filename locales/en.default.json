@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "password_page": {
@@ -522,6 +531,9 @@
     "checkout": {
       "payment_gateway": {
         "draft_order_payment_due_later_no_terms_payment_selected": "Payment is not due until the order ships. Please select \"Choose payment method later\"."
+      },
+      "general": {
+        "submit_for_review_button_label": "Submit Order"
       }
     }
   }
