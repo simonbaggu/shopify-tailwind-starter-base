@@ -534,6 +534,9 @@
       },
       "general": {
         "submit_for_review_button_label": "Submit Order"
+      },
+      "thank_you": {
+        "thank_you_title_review": "Your order has been submitted."
       }
     }
   }
