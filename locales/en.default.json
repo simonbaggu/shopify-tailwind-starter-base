@@ -533,7 +533,8 @@
         "draft_order_payment_due_later_no_terms_payment_selected": "Payment is not due until the order ships. Please select \"Choose payment method later\"."
       },
       "general": {
-        "submit_for_review_button_label": "Submit Order"
+        "submit_for_review_button_label": "Submit Order",
+        "submit_for_review_notice_label": "Your order has been submitted"
       }
     }
   }
