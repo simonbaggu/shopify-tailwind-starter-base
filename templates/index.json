@@ -152,10 +152,22 @@
             "text": "Miffy will invoice in late March 2025",
             "text_style": "body"
           }
+        },
+        "buttons_yUNN6q": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "LEARN MORE ABOUT SHIP DATES",
+            "button_link_1": "shopify:\/\/pages\/faq",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "text_gWDJ73"
+        "text_gWDJ73",
+        "buttons_yUNN6q"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Miffy_Desktop.jpg",
