@@ -9,8 +9,51 @@
 */
 {
   "sections": {
+    "rich_text_yfjki9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XEV8qB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to BAGGU Prebook",
+            "heading_size": "h1"
+          }
+        },
+        "text_8DP4Hr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're not currently taking orders for future collections. <\/p><p><\/p><p>You're welcome to order for our current season on wholesale.baggu.com, or take a look at our FAQs for more information.<\/p>"
+          }
+        },
+        "button_GWieMp": {
+          "type": "button",
+          "settings": {
+            "button_label": "PREBOOK FAQS",
+            "button_link": "shopify:\/\/pages\/faq-3",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XEV8qB",
+        "text_8DP4Hr",
+        "button_GWieMp"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Miffy_Desktop.jpg",
         "image_overlay_opacity": 0,
@@ -56,6 +99,7 @@
         "text_8DVMDE",
         "button_XxccBY"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Large-Cosmetic-Case_MIFFY-Stitcher_75d8c071-e9f2-434e-819f-f216ab4eb28e.jpg",
         "height": "adapt",
@@ -85,6 +129,7 @@
     }
   },
   "order": [
+    "rich_text_yfjki9",
     "image_banner",
     "image_with_text_aNYgfy",
     "contact_form_NfWVPX"
