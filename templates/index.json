@@ -45,7 +45,7 @@
         "text_qaWpWB": {
           "type": "text",
           "settings": {
-            "text": "<p>You're also welcome to order our current season for immediate delivery on wholesale.baggu.com<\/p>"
+            "text": "<p>You're also welcome to order our current season for immediate delivery on wholesale.baggu.com.<\/p>"
           }
         },
         "button_hydq8D": {
@@ -145,9 +145,22 @@
     },
     "image_banner_hbWRBk": {
       "type": "image-banner",
+      "blocks": {
+        "text_gWDJ73": {
+          "type": "text",
+          "settings": {
+            "text": "Miffy will invoice in late March 2025",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_gWDJ73"
+      ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Miffy_Desktop.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
