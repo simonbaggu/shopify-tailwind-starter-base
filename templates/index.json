@@ -79,7 +79,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Miffy_Desktop.jpg",
         "image_overlay_opacity": 0,
@@ -169,6 +168,7 @@
         "text_gWDJ73",
         "buttons_yUNN6q"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Miffy_Desktop.jpg",
         "image_overlay_opacity": 0,
