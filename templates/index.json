@@ -99,14 +99,14 @@
         "heading_cAmbdr": {
           "type": "heading",
           "settings": {
-            "heading": "MIFFY 2025",
+            "heading": "SUMMER 2025",
             "heading_size": "h1"
           }
         },
         "text_8DVMDE": {
           "type": "text",
           "settings": {
-            "text": "<p>Booking for the collection will run from 8/26 until 9/4, with shipping planned for late March 2025.</p>",
+            "text": "<p>Booking for the collection will run from 10/9 until 10/18, with shipping planned for May 2025.</p>",
             "text_style": "body"
           }
         },
@@ -126,7 +126,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Large-Cosmetic-Case_MIFFY-Stitcher_75d8c071-e9f2-434e-819f-f216ab4eb28e.jpg",
+        "image": "shopify://shop_images/Small-Bowler-Bag_Black___White_Gingham-Stitcher-02_019a8ec7-1213-49b1-b9ab-6ab05f483699.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
