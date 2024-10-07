@@ -124,7 +124,6 @@
         "text_8DVMDE",
         "button_XxccBY"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Frame_4105.png",
         "height": "adapt",
@@ -142,47 +141,6 @@
         "padding_side": 0
       }
     },
-    "image_banner_hbWRBk": {
-      "type": "image-banner",
-      "blocks": {
-        "text_gWDJ73": {
-          "type": "text",
-          "settings": {
-            "text": "Miffy will invoice in late March 2025",
-            "text_style": "body"
-          }
-        },
-        "buttons_yUNN6q": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "LEARN MORE ABOUT SHIP DATES",
-            "button_link_1": "shopify://pages/faq",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_gWDJ73",
-        "buttons_yUNN6q"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/Miffy_Desktop.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "contact_form_NfWVPX": {
       "type": "contact-form",
       "settings": {
@@ -198,7 +156,6 @@
     "rich_text_yfjki9",
     "image_banner",
     "image_with_text_aNYgfy",
-    "image_banner_hbWRBk",
     "contact_form_NfWVPX"
   ]
 }
