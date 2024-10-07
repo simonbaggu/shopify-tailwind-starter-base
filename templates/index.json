@@ -22,20 +22,20 @@
         "text_8DP4Hr": {
           "type": "text",
           "settings": {
-            "text": "<p>We're not currently taking orders for future collections.<\/p>"
+            "text": "<p>We're not currently taking orders for future collections.</p>"
           }
         },
         "text_aKXzDM": {
           "type": "text",
           "settings": {
-            "text": "<p>Take a look at our FAQs for more information.<\/p>"
+            "text": "<p>Take a look at our FAQs for more information.</p>"
           }
         },
         "button_GWieMp": {
           "type": "button",
           "settings": {
             "button_label": "PREBOOK FAQS",
-            "button_link": "shopify:\/\/pages\/faq",
+            "button_link": "shopify://pages/faq",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -45,14 +45,14 @@
         "text_qaWpWB": {
           "type": "text",
           "settings": {
-            "text": "<p>You're also welcome to order our current season for immediate delivery on wholesale.baggu.com.<\/p>"
+            "text": "<p>You're also welcome to order our current season for immediate delivery on wholesale.baggu.com.</p>"
           }
         },
         "button_hydq8D": {
           "type": "button",
           "settings": {
             "button_label": "SHOP WHOLESALE.COM",
-            "button_link": "https:\/\/wholesale.baggu.com",
+            "button_link": "https://wholesale.baggu.com",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -80,7 +80,7 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Miffy_Desktop.jpg",
+        "image": "shopify://shop_images/01_Hero_Desktop.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -106,7 +106,7 @@
         "text_8DVMDE": {
           "type": "text",
           "settings": {
-            "text": "<p>Booking for the collection will run from 8\/26 until 9\/4, with shipping planned for late March 2025.<\/p>",
+            "text": "<p>Booking for the collection will run from 8/26 until 9/4, with shipping planned for late March 2025.</p>",
             "text_style": "body"
           }
         },
@@ -114,7 +114,7 @@
           "type": "button",
           "settings": {
             "button_label": "VIEW THE LINESHEET",
-            "button_link": "shopify:\/\/pages\/linesheet",
+            "button_link": "shopify://pages/linesheet",
             "button_style_secondary": false
           }
         }
@@ -126,7 +126,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Large-Cosmetic-Case_MIFFY-Stitcher_75d8c071-e9f2-434e-819f-f216ab4eb28e.jpg",
+        "image": "shopify://shop_images/Large-Cosmetic-Case_MIFFY-Stitcher_75d8c071-e9f2-434e-819f-f216ab4eb28e.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -156,7 +156,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "LEARN MORE ABOUT SHIP DATES",
-            "button_link_1": "shopify:\/\/pages\/faq",
+            "button_link_1": "shopify://pages/faq",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -170,7 +170,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Miffy_Desktop.jpg",
+        "image": "shopify://shop_images/Miffy_Desktop.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
