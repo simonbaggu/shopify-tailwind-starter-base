@@ -123,15 +123,15 @@
         "text_8DVMDE": {
           "type": "text",
           "settings": {
-            "text": "<p>Booking for the collection will run from 10/9 until 10/18, with shipping planned for May 2025.</p>",
+            "text": "<p>We're not currently taking orders for future collections.</p>",
             "text_style": "body"
           }
         },
         "button_XxccBY": {
           "type": "button",
           "settings": {
-            "button_label": "VIEW THE LINESHEET",
-            "button_link": "shopify://pages/linesheet",
+            "button_label": "PREBOOK FAQS",
+            "button_link": "shopify://pages/faq",
             "button_style_secondary": false
           }
         }
