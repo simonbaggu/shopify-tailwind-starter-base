@@ -68,7 +68,6 @@
         "text_qaWpWB",
         "button_hydq8D"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -96,6 +95,7 @@
       "block_order": [
         "buttons_6QXqHR"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/01_Hero_Desktop.jpg",
         "image_overlay_opacity": 0,

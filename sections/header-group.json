@@ -16,6 +16,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "We're not currently taking orders for future collections.",
             "link": ""
@@ -23,6 +24,7 @@
         },
         "announcement_n39ejb": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Welcome to our store",
             "link": ""
